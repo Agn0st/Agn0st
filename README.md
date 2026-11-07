@@ -9,7 +9,6 @@ I work across the full cycle of a product, from early research to delivered desi
   <a href="https://www.linkedin.com/in/valeriikoreniuk"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=ri:RiLinkedinFill&amp;size=xs"></a>
   <a href="https://www.behance.com/valerii_k"><img alt="Behance" src="https://shieldcn.dev/badge/Behance-1769FF.svg?logo=behance&amp;size=xs"></a>
   <a href="https://huggingface.co/Agn0st"><img alt="Hugging Face" src="https://shieldcn.dev/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&amp;size=xs"></a>
-  <a href="https://agnost.itch.io/"><img alt="itch.io" src="https://shieldcn.dev/badge/itch.io-FA5C5C.svg?logo=itchdotio&amp;size=xs"></a>
   <a href="https://github.com/agn0st?tab=followers"><img alt="GitHub followers" src="https://shieldcn.dev/github/followers/agn0st.svg?logo=github&amp;variant=secondary&amp;size=xs"></a>
 </p>
 
