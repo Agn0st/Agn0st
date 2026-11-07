@@ -2,5 +2,18 @@
 
 I'm a Multidisciplinary Product Designer with 9+ years of experience. I work across the full cycle of a product, from early research to delivered design. Most of my work has been in regulated industries, mostly pharma.
 
-### Socials
-<a href="https://www.linkedin.com/in/valeriikoreniuk"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.com/valerii_k) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Agn0st) <a href="https://www.github.com/agn0st" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/agn0st?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p>
+  <img alt="Role: Multidisciplinary Product Designer" src="https://shieldcn.dev/badge/Role-Multidisciplinary%20Product%20Designer-7C3AED.svg?logo=ri:RiPencilRuler2Line&amp;size=xs">
+  <img alt="Experience: 9+ years" src="https://shieldcn.dev/badge/Experience-9%2B%20years.svg?logo=ri:RiTimeLine&amp;variant=secondary&amp;size=xs">
+  <img alt="Industry: Pharma, Enterprise" src="https://shieldcn.dev/badge/Industry-Pharma%2C%20Enterprise.svg?logo=ri:RiCapsuleLine&amp;variant=secondary&amp;size=xs"><br>
+  <a href="https://www.linkedin.com/in/valeriikoreniuk"><img alt="LinkedIn" src="https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=ri:RiLinkedinFill&amp;size=xs"></a>
+  <a href="https://www.behance.com/valerii_k"><img alt="Behance" src="https://shieldcn.dev/badge/Behance-1769FF.svg?logo=behance&amp;size=xs"></a>
+  <a href="https://huggingface.co/Agn0st"><img alt="Hugging Face" src="https://shieldcn.dev/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&amp;size=xs"></a>
+  <a href="https://agnost.itch.io/"><img alt="itch.io" src="https://shieldcn.dev/badge/itch.io-FA5C5C.svg?logo=itchdotio&amp;size=xs"></a>
+  <a href="https://github.com/agn0st?tab=followers"><img alt="GitHub followers" src="https://shieldcn.dev/github/followers/agn0st.svg?logo=github&amp;variant=secondary&amp;size=xs"></a>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️
+  </samp>
+</p>
